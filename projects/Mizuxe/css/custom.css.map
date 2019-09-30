@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,UAAU;CACpB",
+    "sources": [
+        "../scss/custom.scss"
+    ],
+    "names": [],
+    "file": "custom.css"
+}
